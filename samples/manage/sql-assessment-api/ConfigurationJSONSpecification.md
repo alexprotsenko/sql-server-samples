@@ -1,7 +1,7 @@
-```JSON
+```JSONC
 
-"rules" {                           <--comment--/>
-  "target": "Windows"               <--comment--/>
+"rules" {                           //comment
+  "target": "Windows"               //comment
 }
 
 ```
