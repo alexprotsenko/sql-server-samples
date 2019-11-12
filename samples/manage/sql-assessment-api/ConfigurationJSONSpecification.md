@@ -32,3 +32,5 @@ The snippet doesn't contain another very important property—`probes`—because
 `rules` and `probes` are described in detail in further sections.
 
 ## `rules`
+
+Rule is a unit of assessment that represents a best practice, policy, or 
