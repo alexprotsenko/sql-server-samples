@@ -33,4 +33,4 @@ The snippet doesn't contain another very important property—`probes`—because
 
 ## `rules`
 
-Rule is a unit of assessment that represents a best practice, policy, or 
+Rule is a unit of assessment that represents a best practice, policy, or reqiured configuration.
