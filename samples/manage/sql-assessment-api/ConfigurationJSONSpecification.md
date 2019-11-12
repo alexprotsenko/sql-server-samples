@@ -1,0 +1,7 @@
+```JSON
+
+"rules" {
+  "target": "Windows"
+}
+
+```
