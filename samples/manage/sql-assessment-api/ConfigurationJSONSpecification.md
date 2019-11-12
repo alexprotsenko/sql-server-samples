@@ -1,7 +1,7 @@
 ```JSON
 
 "rules" {                           <--comment--/>
-  "target": "Windows"
+  "target": "Windows"               <--comment--/>
 }
 
 ```
