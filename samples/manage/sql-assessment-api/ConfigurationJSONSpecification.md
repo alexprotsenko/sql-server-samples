@@ -1,6 +1,6 @@
 ```JSON
 
-"rules" {
+"rules" {                           <--comment--/>
   "target": "Windows"
 }
 
